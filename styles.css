@@ -52,11 +52,11 @@ body {
 .top_information {
     margin: 20px;
     line-height: 1.3;
-    font-size: clamp(12px, 2vw, 18px);
+    font-size: clamp(14px, 2vw, 18px);
 }
 
 p {
-    font-size: clamp(12px, 2vw, 14px);
+    font-size: clamp(10px, 2vw, 14px);
 }
 
 .form_container {
