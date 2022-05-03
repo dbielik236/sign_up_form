@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: clamp(400px, 600px, 800px);
+    width: clamp(400px, 50vw, 1200px);
     height: auto;
     background-color:rgb(240, 240, 240);
 }
@@ -40,7 +40,7 @@ body {
     flex-direction: column;
     justify-content: center;
     background-color:rgb(240, 240, 240);
-    width: clamp(400px, 600px, 800px);
+    width: clamp(400px, 50vw, 1200px);
     height: auto;
     
 }
